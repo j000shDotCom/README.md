@@ -14,7 +14,7 @@ I find myself most comfortable working with a small but motivated team, building
 
 I take pride in my work and want to build something we can all be proud of. **Each contribution is carefully reviewed and tested.** I prefer the assurance of code safety and reliability over scrappy shipping (unless the need is absolutely dire). Systems built with such attention to detail are easier to grok, maintain, and share workload.
 
-While I am currently based in San Francisco, I prefer to work remotely with an option to come into an office or coworking space occasionally. In the
+While I am currently based in San Francisco, I prefer to work remotely with an option to come into an office or coworking space occasionally.
 
 ## Personal
 
