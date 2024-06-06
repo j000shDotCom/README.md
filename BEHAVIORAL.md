@@ -30,14 +30,3 @@ Percy Enterprise
 
 Challenges:
 - Main team member leaving the company after we ironed out product specifications
-
-
-
-Questions for interviewer
-
-- How are OKRs determined? Do product managers request updates from engineers/eng management before drafting?
-- I am curious about company culture with regard to engineering. For instance, are there hackathons or other events tailored to eng growth? I am excited to see there is a Gusto Engineering blog detailing some successes and challenges (https://engineering.gusto.com)
--
-- on the day-to-day, how would you estimate the dev time vs planning/team meeting ratio?
-- are there opportunities for mentorship?
--

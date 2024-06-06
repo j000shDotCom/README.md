@@ -2,11 +2,11 @@
 
 I am a software engineer interested in the advancement of web technologies and the open web.
 
-## Professional ([projects](PORTFOLIO.md))
+## [Professional](PORTFOLIO.md)
 
-- Senior full stack and product engineer
-- Ruby on Rails, NodeJS, Python/Flask
-- Backend-leaning, API development
+- Senior full-stack engineer
+- **Ruby on Rails**, NodeJS, Python
+- Backend-leaning web application and API development
 
 ## Ideal Work Environment
 
@@ -16,7 +16,7 @@ I take pride in my work and want to build something we can all be proud of. **Ea
 
 While I am currently based in San Francisco, I prefer to work remotely with an option to come into an office or coworking space occasionally.
 
-## Personal
+## [Personal](PERSONAL.md)
 
 - Softball, swimming, poolplaying
 - Slavic language and linguistics enthusiast
