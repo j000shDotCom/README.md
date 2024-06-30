@@ -1,4 +1,4 @@
-name: Percy Snapshot
+name: Percy Snapshot of Markdown
 
 on:
   push:
@@ -24,6 +24,6 @@ jobs:
         run: |
           npm install --save-dev @percy/cli
 
-      - name: Run Percy
+      - name: Run Percy Snapshot
         run: |
-          percy snapshot -b 'https://github.com/jlindsayDev/jlindsayDev/blob/main/README.md'
+          npm run percy snapshot -b 'https://github.com/jlindsayDev/jlindsayDev/blob/main/README.md'
