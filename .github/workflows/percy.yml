@@ -26,4 +26,4 @@ jobs:
 
       - name: Run Percy Snapshot
         run: |
-          npx @percy/snapshot -b 'https://github.com/jlindsayDev/jlindsayDev/blob/main/README.md'
+          npx @percy/cli snapshot -b 'https://github.com/jlindsayDev/jlindsayDev/blob/main/README.md' .
