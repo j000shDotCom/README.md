@@ -127,11 +127,12 @@ API
 
 <details>
 <summary>Other Projects</summary>
+
 - Automated transactional emails for organization plan usage
 - Visual diff sensitivity slider
-    - TODO: include GIF
+    ![Demo of visual diff sensitivity slider](./images/diff-sensitivity.gif)
 - Access token rotation
-    - TODO: include GIF
+    ![Token rotation screenshot](./images/access-token-rotation.png)
 </details>
 
 
