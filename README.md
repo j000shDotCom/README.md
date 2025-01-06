@@ -5,8 +5,8 @@ I am a software engineer interested in the advancement of web technologies and t
 
 ## Professional
 
-- Senior full-stack product engineer
-- **Ruby on Rails**, Python, JavaScript/TypeScript (NodeJS, EmberJS, React)
+- Backend-leaning full stack product engineer
+- **Ruby on Rails**, Python 3, JavaScript/TypeScript (NodeJS, EmberJS, React), Java
 - Backend-leaning web application and API development
 
 
